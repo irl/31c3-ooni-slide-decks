@@ -13,14 +13,14 @@ OONI: Open Observatory of Network Interference
 OONI: Open Observatory of Network Interference (Lightning Talk)
 ---------------------------------------------------------------
 
- * Day 3, TBA
+ * Day 3, 14:00
  * Location: Saal G
  * https://events.ccc.de/congress/2014/wiki/Lightning:OONI:_Open_Observatory_of_Network_Interference
 
-Censorship and Internet Engineering
------------------------------------
+Censorship and Internet Engineering (Lightning Talk)
+----------------------------------------------------
 
- * Day 3, TBA
+ * Day 3, 14:05
  * Location: Saal G
  * https://events.ccc.de/congress/2014/wiki/Lightning:Censorship_and_Internet_Engineering
 
