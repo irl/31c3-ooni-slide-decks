@@ -1,4 +1,5 @@
-31c3-lightning-talks
-====================
+31C3 OONI Slide Decks
+=====================
 
-31C3 OONI Lightning Talks
+Slide decks for the OONI talks at 31C3.
+
