@@ -7,7 +7,7 @@
 \title{Censorship and Internet Engineering}
 \author[Iain R. Learmonth]{Iain R. Learmonth \\ $<$irl@fsfe.org$>$ \\ 0x56FF9EA4E9846C49}
 \institute[UoA / ORG]{University of Aberdeen / Open Rights Group}
-\date{DRAFT}
+\date[Day 3]{Day 3 / Lightning Talks}
 
 \begin{document}
 
@@ -42,7 +42,7 @@
 	\frametitle{Enter Censorship}
 	\begin{itemize}
 		\item{The UK government has pressured ISPs to filter traffic to prevent children and young people from seeing content that is deemed unsuitable}
-		\item{Results from blocked.org.uk (Top 100,000 websites\footnote{From the Alexa top 1 million websites}):}
+		\item{Results from blocked.org.uk (Top 100,000 websites\footnote{From the Alexa top 1 million websites, about 6 months ago}):}
 		\begin{itemize}
 			\item{TalkTalk Strict: 12982 blocked (13\%)}
 			\item{Sky: 7006 blocked (7\%)}
@@ -55,9 +55,10 @@
 \begin{frame}
 	\frametitle{The Lists}
 	\begin{itemize}
-		\item{Each ISP has a different block list}
+		\item{Each ISP uses a different block list}
 		\item{Each ISP may even have many different block lists}
 		\item{The lists are not publicly available}
+		\item{The lists may not even be available to the ISPs}
 	\end{itemize}
 	\begin{center}
 		\includegraphics[width=0.7\textwidth]{talktalk.png}
@@ -70,6 +71,7 @@
 		\item{Each ISP has a different way of dealing with requests for blocked content}
 		\item{\url{blocked.org.uk} has complex rulesets for detecting blocked requests}
 		\item{The blocks are not predictable}
+		\item{Ideally, \url{blocked.org.uk} shouldn't exist}
 	\end{itemize}
 	\begin{center}
 		\includegraphics[width=0.7\textwidth]{blockedrules.png}
@@ -133,6 +135,7 @@
 		{\LARGE \url{http://www.erg.abdn.ac.uk/}}
 		{\LARGE \url{http://www.openrightsgroup.org/}}
 		{\LARGE \url{http://www.blocked.org.uk/}}
+		{\LARGE \url{http://www.451unavailable.org/}}
 	\end{center}
 \end{frame}
 
